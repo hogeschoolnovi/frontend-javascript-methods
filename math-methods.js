@@ -26,5 +26,5 @@ console.log(Math.PI);
 // Genereer een willekeurig getal tussen de 0 en 1 en doe dan een check:
 // * is het willekeurige getal groter dan 0.5 ? Log dan het getal met "Het glas is halfvol" in de terminal
 // * is het willekeurige getal kleiner dan 0.5 ? Log dan het getal met "Het glas is half leeg" in de terminal
-// Tip: iedere keer als je het script opnieuw draait, is dit getal anders ;)
+// Tip: iedere keer als je het script opnieuw draait (wel even een extra spatie toevoegen o.i.d.) is dit getal anders ;)
 // ---- Verwachte uitkomst: Bijbehorende zin afhankelijk van de uitkomst
