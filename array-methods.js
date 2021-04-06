@@ -5,7 +5,8 @@
 
 const cookieIngredients = ["Eieren", "Bloem", "Bakpoeder", "Vanille extract"];
 
-console.log(cookieIngredients.pop());
+const lastItem = cookieIngredients.pop();
+console.log(lastItem);
 console.log(cookieIngredients);
 
 /* Opdracht 1: */
